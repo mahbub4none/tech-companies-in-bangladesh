@@ -83,6 +83,11 @@ https://github.com/ChumbokIT[Github]
 |
 |http://www.ibcs-primax.com/ibcsonweb/[Website]
 
+|Isratts Technologies
+|House # 86, Road # 07, O R Nizam Rd. R/A, Chittagong, Bangladesh
+|PHP, JS, MySQL
+|http://www.israttstech.com/[Website]
+
 |===
 
 ==== Alphabetical Order: J - L
